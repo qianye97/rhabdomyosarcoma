@@ -19,7 +19,11 @@
 
 **四、NLP变量示例**
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption><p>NLP变量-IRS术后-病理分期</p></figcaption></figure>
+<div align="center">
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>NLP变量-IRS术后-病理分期</p></figcaption></figure>
+
+</div>
 
 **五、NLP变量新增流程**
 

@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>数据标准化流程图</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>数据标准化流程图</p></figcaption></figure>
 
 </div>
 
