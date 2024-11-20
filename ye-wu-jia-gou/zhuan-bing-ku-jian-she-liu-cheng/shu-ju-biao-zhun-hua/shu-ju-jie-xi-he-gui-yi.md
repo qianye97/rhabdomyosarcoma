@@ -4,11 +4,11 @@
 
 &#x20;   数据解析又分为实体的解析和实体关系的解析，即将实体和实体关系映射成以病案为维度的NLP变量。
 
-1. **实体映射表**
+（1）实体映射表
 
 <table><thead><tr><th width="140">实体类型</th><th width="135">实体状态名称</th><th width="66">值</th><th width="130">对应NLP变量中文名</th><th width="248">对应NLP变量英文名</th></tr></thead><tbody><tr><td>FOXO1状态</td><td>阴性/阳性</td><td>阳性</td><td>FOXO1状态</td><td>ncFoxo1</td></tr><tr><td>分期程度</td><td>术前/术后</td><td>术前</td><td>术前分期</td><td>ncLevel</td></tr><tr><td>分期程度</td><td>术前/术后</td><td>术后</td><td>术后分组</td><td>ncIrs</td></tr><tr><td>病理类型</td><td></td><td></td><td>病理类型</td><td>ncPathologicalClassification</td></tr><tr><td>TNM</td><td></td><td></td><td>TNM</td><td>ncTnm</td></tr><tr><td>危险度分组</td><td></td><td></td><td>危险度分组</td><td>ncRiskGroup</td></tr><tr><td>肿瘤大小</td><td>是否原发</td><td>是</td><td>原发肿瘤大小</td><td>ncPrimaryTumorSize</td></tr><tr><td>疾病症状</td><td>发生状态</td><td>有</td><td>疾病症状</td><td>ncSymptom</td></tr></tbody></table>
 
-2. **实体关系映射表** &#x20;
+（2）实体关系映射表 &#x20;
 
 <table><thead><tr><th width="85">实体关系</th><th width="142">实体1类型</th><th width="162">实体2类型</th><th width="137">对应病案NLP变量中文名</th><th width="156">对应病案NLP变量英文名</th><th width="149">对应病案NLP变量取值</th></tr></thead><tbody><tr><td>肿瘤危险度分组</td><td>疾病名称</td><td>危险度分组</td><td>危险度分组</td><td>ncRiskGroup</td><td>危险度分组</td></tr><tr><td>肿瘤原发部位</td><td>临床发现</td><td>解剖部位</td><td>肿瘤原发部位</td><td>ncPrimarySite</td><td>解剖部位</td></tr><tr><td>肿瘤病理类型</td><td>疾病名称</td><td>病理类型</td><td>病理类型</td><td>ncPathologicalClassification</td><td>病理类型</td></tr><tr><td>肿瘤侵袭性</td><td>临床发现</td><td>临床事件</td><td>原发肿瘤侵袭性（T）</td><td>ncTnmT</td><td>临床发现+临床事件</td></tr><tr><td>淋巴结受累情况</td><td>组织细胞</td><td>临床事件</td><td>淋巴结受累情况（N）</td><td>ncTnmN</td><td>组织细胞+临床事件</td></tr><tr><td>远处转移</td><td>临床发现/解剖部位</td><td>临床事件</td><td>远处转移（M）</td><td>ncTnmM</td><td>临床发现/解剖部位+临床事件</td></tr><tr><td>新发时间</td><td>疾病名称</td><td>时间</td><td>新发时间</td><td>ncNewOccurTime</td><td>时间</td></tr></tbody></table>
 
