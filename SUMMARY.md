@@ -2,25 +2,25 @@
 
 * [RMS知识库](README.md)
 
-## 基础定义
+## 术语定义
 
-* [实体](ji-chu-ding-yi/shi-ti/README.md)
-  * [疾病名称](ji-chu-ding-yi/shi-ti/ji-bing-ming-cheng.md)
-  * [分期程度](ji-chu-ding-yi/shi-ti/fen-qi-cheng-du.md)
-  * [危险度分组](ji-chu-ding-yi/shi-ti/wei-xian-du-fen-zu.md)
-  * [肿瘤大小](ji-chu-ding-yi/shi-ti/zhong-liu-da-xiao.md)
-  * [病理类型](ji-chu-ding-yi/shi-ti/bing-li-lei-xing.md)
-  * [疾病症状](ji-chu-ding-yi/shi-ti/ji-bing-zheng-zhuang.md)
-  * [解剖部位](ji-chu-ding-yi/shi-ti/jie-pou-bu-wei.md)
-  * [FOXO1状态](ji-chu-ding-yi/shi-ti/foxo1-zhuang-tai.md)
-  * [TNM](ji-chu-ding-yi/shi-ti/tnm.md)
-  * [临床发现](ji-chu-ding-yi/shi-ti/lin-chuang-fa-xian.md)
-  * [临床事件](ji-chu-ding-yi/shi-ti/lin-chuang-shi-jian.md)
-  * [组织细胞](ji-chu-ding-yi/shi-ti/zu-zhi-xi-bao.md)
-* [实体关系](ji-chu-ding-yi/shi-ti-guan-xi/README.md)
-  * [RMS实体关系](ji-chu-ding-yi/shi-ti-guan-xi/rms-shi-ti-guan-xi.md)
-* [NLP变量](ji-chu-ding-yi/nlp-bian-liang.md)
-* [NLP模型](ji-chu-ding-yi/nlp-mo-xing.md)
+* [实体](shu-yu-ding-yi/shi-ti/README.md)
+  * [疾病名称](shu-yu-ding-yi/shi-ti/ji-bing-ming-cheng.md)
+  * [分期程度](shu-yu-ding-yi/shi-ti/fen-qi-cheng-du.md)
+  * [危险度分组](shu-yu-ding-yi/shi-ti/wei-xian-du-fen-zu.md)
+  * [肿瘤大小](shu-yu-ding-yi/shi-ti/zhong-liu-da-xiao.md)
+  * [病理类型](shu-yu-ding-yi/shi-ti/bing-li-lei-xing.md)
+  * [疾病症状](shu-yu-ding-yi/shi-ti/ji-bing-zheng-zhuang.md)
+  * [解剖部位](shu-yu-ding-yi/shi-ti/jie-pou-bu-wei.md)
+  * [FOXO1状态](shu-yu-ding-yi/shi-ti/foxo1-zhuang-tai.md)
+  * [TNM](shu-yu-ding-yi/shi-ti/tnm.md)
+  * [临床发现](shu-yu-ding-yi/shi-ti/lin-chuang-fa-xian.md)
+  * [临床事件](shu-yu-ding-yi/shi-ti/lin-chuang-shi-jian.md)
+  * [组织细胞](shu-yu-ding-yi/shi-ti/zu-zhi-xi-bao.md)
+* [实体关系](shu-yu-ding-yi/shi-ti-guan-xi/README.md)
+  * [RMS实体关系](shu-yu-ding-yi/shi-ti-guan-xi/rms-shi-ti-guan-xi.md)
+* [NLP变量](shu-yu-ding-yi/nlp-bian-liang.md)
+* [NLP模型](shu-yu-ding-yi/nlp-mo-xing.md)
 
 ## 业务架构
 
