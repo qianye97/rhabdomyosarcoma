@@ -2,13 +2,21 @@
 
 **一、实体定义**
 
-&#x20;   实 体指的是文本中具有明确指代意义的<mark style="color:red;">词汇或短语</mark>。
+&#x20;   实体指的是文本中具有明确指代意义的<mark style="color:red;">词汇或短语</mark>。
 
 **二、实体示例**
 
+<div align="center">
+
 <figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption><p>数据标注-大报卡</p></figcaption></figure>
 
+</div>
+
+<div align="center">
+
 <figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption><p>疾病名称实体</p></figcaption></figure>
+
+</div>
 
 **三、实体属性**
 

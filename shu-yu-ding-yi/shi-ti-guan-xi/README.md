@@ -14,7 +14,11 @@
 
 **二、实体关系示例**
 
+<div align="center">
+
 <figure><img src="../../.gitbook/assets/image (22).png" alt="" width="375"><figcaption><p>平台大报卡-肿瘤原发部位关系示例</p></figcaption></figure>
+
+</div>
 
 **三、实体关系来源**
 
