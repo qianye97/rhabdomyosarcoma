@@ -10,5 +10,9 @@
 
 **三、示例**
 
+<div align="center">
+
 <figure><img src="../../.gitbook/assets/image (7).png" alt="" width="375"><figcaption><p>平台大报卡-解剖部位标注示例</p></figcaption></figure>
+
+</div>
 

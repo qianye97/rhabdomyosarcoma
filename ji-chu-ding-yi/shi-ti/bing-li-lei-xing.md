@@ -10,4 +10,8 @@
 
 **三、示例**
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt="" width="375"><figcaption><p>平台大报卡-病理类型标注示例</p></figcaption></figure>
+<div align="center">
+
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt="" width="375"><figcaption><p>平台大报卡-病理类型标注示例</p></figcaption></figure>
+
+</div>

@@ -2,7 +2,7 @@
 
 **一、总流程图**
 
-<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption><p>专病库建设流程图</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>专病库建设流程图</p></figcaption></figure>
 
 **二、详细流程**
 
@@ -23,5 +23,5 @@
 &#x20;   数据标准化包括数据归一、数据聚合和人工审核。
 
 * <mark style="color:red;">数据解析和归一</mark>是指在实体映射成病案NLP变量后，对实体的值进行归一化处理
-* <mark style="color:red;">数据聚合</mark>是指将以病案为维度的标准变量转换成以主索引为维度的NLP变量
-* <mark style="color:red;">人工审核</mark>是指人工对机器处理后的结果进行最终的检查和确认，以确保结果的准确性和可靠性
+* <mark style="color:red;">主索引归档</mark>是指将以病案为维度的标准变量转换成以主索引为维度的NLP变量
+* <mark style="color:red;">人工归档及审核</mark>是指人工对机器归档后的结果进行审核以及对机器无法归档的变量进行人工归档，以确保主索引归档结果的准确性和可靠性

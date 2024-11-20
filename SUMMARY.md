@@ -1,6 +1,6 @@
 # Table of contents
 
-* [RMS专病库11.20汇报](README.md)
+* [RMS知识库](README.md)
 
 ## 基础定义
 
@@ -29,8 +29,8 @@
   * [自然语言处理](ye-wu-jia-gou/zhuan-bing-ku-jian-she-liu-cheng/zi-ran-yu-yan-chu-li.md)
   * [数据标准化](ye-wu-jia-gou/zhuan-bing-ku-jian-she-liu-cheng/shu-ju-biao-zhun-hua/README.md)
     * [数据解析和归一](ye-wu-jia-gou/zhuan-bing-ku-jian-she-liu-cheng/shu-ju-biao-zhun-hua/shu-ju-jie-xi-he-gui-yi.md)
-    * [数据聚合](ye-wu-jia-gou/zhuan-bing-ku-jian-she-liu-cheng/shu-ju-biao-zhun-hua/shu-ju-ju-he.md)
-    * [人工审核](ye-wu-jia-gou/zhuan-bing-ku-jian-she-liu-cheng/shu-ju-biao-zhun-hua/ren-gong-shen-he.md)
+    * [主索引归档](ye-wu-jia-gou/zhuan-bing-ku-jian-she-liu-cheng/shu-ju-biao-zhun-hua/zhu-suo-yin-gui-dang.md)
+    * [人工归档及审核](ye-wu-jia-gou/zhuan-bing-ku-jian-she-liu-cheng/shu-ju-biao-zhun-hua/ren-gong-gui-dang-ji-shen-he.md)
 
 ## 文献
 

@@ -12,6 +12,6 @@
 
 <div align="center" data-full-width="false">
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>平台大报卡-疾病名称标注示例</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>平台大报卡-疾病名称标注示例</p></figcaption></figure>
 
 </div>

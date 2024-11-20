@@ -10,4 +10,8 @@
 
 **三、示例**
 
+<div align="center">
+
 <figure><img src="../../.gitbook/assets/image (11).png" alt="" width="375"><figcaption><p>平台大报卡-FOXO1状态标注示例</p></figcaption></figure>
+
+</div>

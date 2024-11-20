@@ -23,4 +23,8 @@
 
 **五、NLP变量新增流程**
 
+<div align="center">
+
 <figure><img src="../.gitbook/assets/image (17).png" alt="" width="364"><figcaption></figcaption></figure>
+
+</div>

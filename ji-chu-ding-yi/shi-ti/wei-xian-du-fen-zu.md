@@ -10,4 +10,8 @@
 
 **三、示例**
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="375"><figcaption><p>平台大报卡-危险度分组标注示例</p></figcaption></figure>
+<div align="center">
+
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt="" width="375"><figcaption><p>平台大报卡-危险度分组标注示例</p></figcaption></figure>
+
+</div>

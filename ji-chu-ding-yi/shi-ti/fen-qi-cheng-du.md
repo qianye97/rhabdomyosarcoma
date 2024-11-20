@@ -12,6 +12,6 @@
 
 <div align="center" data-full-width="false">
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption><p>平台大报卡-分期程度标注示例</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption><p>平台大报卡-分期程度标注示例</p></figcaption></figure>
 
 </div>

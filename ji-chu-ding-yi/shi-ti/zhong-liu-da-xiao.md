@@ -12,6 +12,6 @@
 
 <div align="center">
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt="" width="375"><figcaption><p>平台大报卡-肿瘤大小标注示例</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt="" width="375"><figcaption><p>平台大报卡-肿瘤大小标注示例</p></figcaption></figure>
 
 </div>
